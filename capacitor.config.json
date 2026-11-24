@@ -1,0 +1,9 @@
+{
+  "appId": "go.id.kemenhaj.absensidebarkasi",
+  "appName": "Absensi Kemenhaj",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
